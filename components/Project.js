@@ -9,7 +9,7 @@ function Project({project}) {
         <div className="buttons">
           {project.frontmatter.link ? 
               <div>
-                <a className='btn' href={project.frontmatter.link_live} target='_blank' rel="noreferrer">Link</a>
+                <a className='btn' href={project.frontmatter.link} target='_blank' rel="noreferrer">Link</a>
               </div>
               : <div>
                   <a className='btn' href={project.frontmatter.link_live} target='_blank' rel="noreferrer">Live</a>
