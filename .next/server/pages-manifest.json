@@ -1,5 +1,13 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js"
+  "/": "pages/index.html",
+  "/_document": "pages/_document.js",
+  "/bio": "pages/bio.js",
+  "/blog/[slug]": "pages/blog/[slug].js",
+  "/book/[slug]": "pages/book/[slug].js",
+  "/bookshelf": "pages/bookshelf.js",
+  "/blogs": "pages/blogs.js",
+  "/projects": "pages/projects.js",
+  "/404": "pages/404.html"
 }
