@@ -2,12 +2,12 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/": "pages/index.html",
-  "/blogs": "pages/blogs.js",
+  "/bio": "pages/bio.js",
   "/blog/[slug]": "pages/blog/[slug].js",
+  "/blogs": "pages/blogs.js",
+  "/book/[slug]": "pages/book/[slug].js",
   "/bookshelf": "pages/bookshelf.js",
   "/projects": "pages/projects.js",
-  "/book/[slug]": "pages/book/[slug].js",
-  "/bio": "pages/bio.js",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html"
 }
