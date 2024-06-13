@@ -12,7 +12,7 @@ export default function Home() {
       <div className='container'>
           <div className='intro'>
             <div className='intro-text'>
-              <h3>I am Avazjon Yusufjonov, a Philosophy and Economics master's student and full-stack developer based in Bayreuth, Germany. Primary technologies that I work with are React.js & Node.js to build web applications, and Numpy & Pandas for data analysis. <br/> You can contact me through:</h3>
+              <h3>I am Avazjon Yusufjonov, a philosophy and economics master's student and full-stack developer based in Bayreuth, Germany. Primary technologies that I work with are React.js & Node.js to build web applications, and Numpy & Pandas for data analysis. <br/> You can contact me through:</h3>
               <div>
                 <div className='social-links'>
                   <a className='link' type='button' href='https://github.com/rd9911' target='_blank' rel='noreferrer' ><Image src={github_image} alt='github-logo' width={58} height={30} /></a>
