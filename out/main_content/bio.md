@@ -15,12 +15,12 @@ Upon completing my study abroad program, I applied to finish my bachelor’s deg
 ### Experience
 My first professional experience was a teaching position at an English Academy, where I gained valuable communication skills and insights into human psychology. Later, I led a team of students in a successful Go-To-Market strategy for the French and Spanish markets for a startup, enhancing my market research skills, competitive analysis, and strategic suggestions on sales leads. As an Analyst at a logistics company, I developed skills in strategic planning, operational management, and time management. I actively follow global financial and economic developments and am a member of Aachen Investment Club’s stock pitch team, analyzing companies and business models.
 
+**Go-to-Market Strategy for Tikean**: Led a successful project for a data management platform expanding into French and Spanish markets during my exchange year in Finland. Overcame challenges in understanding the product, distributing tasks, and identifying sales leads. The strategy was chosen as the best among all teams.
+
+**Entrepreneurial Mindset**: At 13, I started a sports news page on Telegram, overcoming challenges in content creation, engagement, and branding. Developed automation bots to streamline content posting and management, organically growing the page to 2800 subscribers before selling it.
+
 ### Passion for Technology and Startups
 My interest in startups and technology has led me to learn and practice data analysis and web development for the past four years. I am proficient in Python, data analysis with pandas or SQL as well as acquired React.js and node.js skills for web development, and have a certificate in advanced computer science topics. This knowledge equips me to analyze, understand, and consult on businesses and their products.
-
-### Notable Projects and Achievements
-- **Go-to-Market Strategy for Tikean**: Led a successful project for a data management platform expanding into French and Spanish markets during my exchange year in Finland. Overcame challenges in understanding the product, distributing tasks, and identifying sales leads. The strategy was chosen as the best among all teams.
-- **Entrepreneurial Mindset**: At 13, I started a sports news page on Telegram, overcoming challenges in content creation, engagement, and branding. Developed automation bots to streamline content posting and management, organically growing the page to 2800 subscribers before selling it.
 
 ### Conclusion
 My journey in business administration, finance, and economics, combined with my experiences abroad and professional roles, has shaped my character and skills. I am passionate about continuous learning, technology, startups, and understanding the intricate structures that govern various aspects of life.

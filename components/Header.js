@@ -6,7 +6,7 @@ export default function Header() {
             <div className='container'>
                 {/* eslint-disable @next/next/link-passhref */}
                 <Link href='/'>
-                    <h2><Link href='/' passHref>rd9911</Link></h2>
+                    <h2><Link href='/' passHref>avazjon</Link></h2>
                 </Link>
             </div>
         </header>

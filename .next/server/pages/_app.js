@@ -34,7 +34,7 @@ function Header() {
                     children: /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
                         href: "/",
                         passHref: true,
-                        children: "rd9911"
+                        children: "avazjon"
                     })
                 })
             })
@@ -99,7 +99,7 @@ function MyApp({ Component , pageProps  }) {
             /*#__PURE__*/ (0,jsx_runtime_.jsxs)((head_default()), {
                 children: [
                     /*#__PURE__*/ jsx_runtime_.jsx("title", {
-                        children: "rd9911"
+                        children: "Avazjon"
                     }),
                     /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                         name: "viewport",

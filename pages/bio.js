@@ -13,7 +13,6 @@ export default function Bio({ frontmatter: {title, cover_image}, content }) {
                 </Link>
                 <div className='card card-page'>
                     <h1 className='post-title'>About me</h1>
-                    <img src={cover_image} alt='cover-image' />
                     <div className='post-body'>
                         <Markdown>{content}</Markdown>
                     </div>

@@ -52,10 +52,6 @@ function Bio({ frontmatter: { title , cover_image  } , content  }) {
                             className: "post-title",
                             children: "About me"
                         }),
-                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
-                            src: cover_image,
-                            alt: "cover-image"
-                        }),
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                             className: "post-body",
                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(marked_react__WEBPACK_IMPORTED_MODULE_5__["default"], {
