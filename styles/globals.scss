@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Avenir', 'Poppins';
   background-repeat: no-repeat;
   background-size: calc(30vw + 500vh + 500vmin);
   background-position: auto;
@@ -243,7 +243,7 @@ ol {
   text-align: center;
 }
 
-.intro-text h1 {
+.intro-text h2 {
   padding: 10px;
   font-size: calc(2vw + 1vh + 0.5vmin);
   display: flex;
